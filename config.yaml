@@ -1,0 +1,5 @@
+retries: 3
+max_concurrency: 100
+worker_delay_millis: 10
+hosts_parallel: 5
+cache_ttl_millis: 3600000
